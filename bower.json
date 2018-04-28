@@ -1,11 +1,11 @@
 {
   "name": "classy-lists",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "authors": [
     "Vital Kudzelka <vital.kudzelka@gmail.com>"
   ],
   "description": "Ordered and unordered lists",
-  "main": "elements.lists.less",
+  "main": "list.less",
   "keywords": [
     "css",
     "oocss"

@@ -1,0 +1,24 @@
+{
+  "name": "classy-list",
+  "version": "0.3.1",
+  "description": "Ordered and unordered lists",
+  "main": "list.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalk/classy-lists.git"
+  },
+  "keywords": [
+    "css",
+    "oocss",
+    "list"
+  ],
+  "author": "Vital Kudzelka <vital.kudzelka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitalk/classy-lists/issues"
+  },
+  "homepage": "https://github.com/vitalk/classy-lists#readme"
+}
