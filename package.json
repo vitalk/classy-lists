@@ -1,6 +1,6 @@
 {
   "name": "classy-list",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Ordered and unordered lists",
   "main": "list.less",
   "scripts": {
