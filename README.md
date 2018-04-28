@@ -4,10 +4,10 @@ Base styling for ordered and unordered lists.
 
 ## Installation
 
-The recommended installation method is a [bower](http://bower.io).
+The recommended installation method is a [npm](https://www.npmjs.com/).
 
 ```shell
-bower install --save classy-lists
+npm install --save-dev classy-list
 ```
 
 ## License
