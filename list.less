@@ -7,18 +7,20 @@
 
 
 ul,
-@{classy-list-namespace}_unordered {
+.@{classy-list-namespace}_unordered {
     list-style-type: disc;
 }
 
 
 ol,
-@{classy-list-namespace}_ordered {
+.@{classy-list-namespace}_ordered {
     list-style-type: decimal;
 }
 
 
-ul, ol, @{classy-list-namespace} {
+ul,
+ol,
+.@{classy-list-namespace} {
     // Remove vertical spacing for nested lists.
     &+ & { margin-bottom: 0; }
 }
